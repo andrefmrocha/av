@@ -46,7 +46,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>2.6</version>
+				<version>3.2.0</version>
 				<executions>
 					<execution>
 						<goals>
@@ -67,7 +67,7 @@
 		</repository>
 		<repository>
 			<id>matsim</id>
-			<url>http://dl.bintray.com/matsim/matsim</url>
+			<url>https://repo.matsim.org/repository/matsim</url>
 		</repository>
 		<repository>
 			<id>matsim-snapshot</id>
